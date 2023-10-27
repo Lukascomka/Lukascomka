@@ -1,4 +1,3 @@
-@@ -1,17 +1,16 @@
 ## Olá! Eu sou Lukas Mota, estudante do 3/4 semestre de Analise e Desenvolvimento de Sistemas.
 Eu estou atualmente buscando um estágio de Dev. 
 

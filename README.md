@@ -1,8 +1,11 @@
-<div>## Olá! Eu sou Lukas Mota!</div>  
-## Estudante do 3/4 semestre de Analise e Desenvolvimento de Sistemas.
-Eu estou atualmente buscando um estágio de Dev. 
+## Olá! Eu sou Lukas Mota
 
-Essas são as linguagens de programação e ferramentas que eu tenho utilizado para desenvolver projetos pessoais e de estudo.
+## Estudante do 3/4 semestre de Analise e Desenvolvimento de Sistemas.
+
+## Eu estou atualmente buscando um estágio de Dev. 
+
+## Essas são as linguagens de programação e ferramentas que eu tenho utilizado para desenvolver projetos pessoais e de estudo.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

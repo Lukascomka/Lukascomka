@@ -1,4 +1,5 @@
-## Olá! Eu sou Lukas Mota, estudante do 3/4 semestre de Analise e Desenvolvimento de Sistemas.
+## Olá! Eu sou Lukas Mota!
+## Estudante do 3/4 semestre de Analise e Desenvolvimento de Sistemas.
 Eu estou atualmente buscando um estágio de Dev. 
 
 Essas são as linguagens de programação e ferramentas que eu tenho utilizado para desenvolver projetos pessoais e de estudo.

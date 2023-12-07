@@ -2,7 +2,7 @@
 
 ## Estudante do 4º semestre de Analise e Desenvolvimento de Sistemas.
 
-## Eu estou atualmente buscando um estágio de Dev. 
+## Eu estou atualmente buscando um estágio como Dev. 
 
 
 

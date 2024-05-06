@@ -19,9 +19,9 @@ Busco oportunidades para aplicar meu conhecimento em uma empresa de tecnologia.
   <img align="center" alt="Sql" height="30" widht="40" src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png">
   <img align="center" alt"Oracle" height="30" widht="40" src="https://th.bing.com/th/id/R.94009931369ecde25f0fa4532ede6b4d?rik=yMUqN0UbUtqbCg&pid=ImgRaw&r=0">
   <img align="center" alt="MYSql" height="30" widht="40" src="https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=k3edqLFjWyFC1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG22.png&ehk=ffHItQzD%2fUaKL%2bPOiED3dtDd9YUI%2fJRUzYL5raCZnR8%3d&risl=&pid=ImgRaw&r=0">
-  <img align="center" alt="PostegreeSQL" height="30" width="40" src="https://th.bing.com/th/id/OIP.ngvrPV8oeZYqtVND9inJjwHaEK?rs=1&pid=ImgDetMain">
+  <img align="center" alt="PostegreeSQL" height="30" width="40" src="https://th.bing.com/th/id/OIP.NBzDtqc2HcIjKyZZ24Xv2gHaE8?rs=1&pid=ImgDetMain">
   <img align="center" alt="Git" height="30" width="40" src="https://www.clipartmax.com/png/middle/218-2181371_logo-git-git-icon.png">
-   <img align="center" alt="GitHub" height="30" width="40" src="https://th.bing.com/th/id/R.3312c55e2be0c117ace59acd4eba9e8f?rik=lgCr26d5yuoHaQ&pid=ImgRaw&r=0">
+   <img align="center" alt="GitHub" height="30" width="40" src="https://flyclipart.com/thumb2/github-logo-media-icon-with-png-and-vector-format-for-free-813487.png">
 
  
 </div>

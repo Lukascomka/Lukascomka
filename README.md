@@ -17,6 +17,7 @@
   <img align="center" alt="Sql" height="30" widht="40" src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png">
   <img align="center" alt"Oracle" height="30" widht="40" src="https://th.bing.com/th/id/R.94009931369ecde25f0fa4532ede6b4d?rik=yMUqN0UbUtqbCg&pid=ImgRaw&r=0">
   <img align="center" alt="MYSql" height="30" widht="40" src="https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=k3edqLFjWyFC1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG22.png&ehk=ffHItQzD%2fUaKL%2bPOiED3dtDd9YUI%2fJRUzYL5raCZnR8%3d&risl=&pid=ImgRaw&r=0">
+  <img align="center" alt="PostegreeSQL" height="30" width="40" src="https://th.bing.com/th/id/OIP.ngvrPV8oeZYqtVND9inJjwHaEK?rs=1&pid=ImgDetMain"
 </div>
 
 ##

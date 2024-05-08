@@ -17,7 +17,8 @@ Busco oportunidades para aplicar meu conhecimento em uma empresa de tecnologia.
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="Aspdotnet" height="30" width="40" src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2018/08/aspnetfeature.png"> 
   <img align="center" alt="bootstrap" height="30" width="40" src="https://th.bing.com/th/id/R.b9d46cc5e8930d60845d168a3ffa6b4c?rik=PsHC4cXGS21rdQ&pid=ImgRaw&r=0">
-  <img align="center" alt="Sql server" height="30" widht="40" src="https://th.bing.com/th/id/OIP.kFOFedHBn3JXAcdmmywomQHaHa?rs=1&pid=ImgDetMain">
+  <img align="center" alt="Sql server" height="30" widht="40" src="![image](https://github.com/Lukascumk/im./assets/118554222/3c6c2ce8-5e3d-408a-90e8-4e5be3e47706)
+">
   <img align="center" alt"Oracle" height="30" widht="40" src="https://th.bing.com/th/id/R.94009931369ecde25f0fa4532ede6b4d?rik=yMUqN0UbUtqbCg&pid=ImgRaw&r=0">
   <img align="center" alt="MYSql" height="30" widht="40" src="https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=k3edqLFjWyFC1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG22.png&ehk=ffHItQzD%2fUaKL%2bPOiED3dtDd9YUI%2fJRUzYL5raCZnR8%3d&risl=&pid=ImgRaw&r=0">
   <img align="center" alt="PostegreeSQL" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/postgresql-inc-logo.png">

@@ -14,7 +14,7 @@ Busco oportunidades para aplicar meu conhecimento em uma empresa de tecnologia.
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://www.kindpng.com/picc/m/27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.png">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://www.bing.com/images/search?view=detailV2&ccid=ylJGrEn%2f&id=897FA89AE97999B52A5F0926FB6AB7137D518678&thid=OIP.ylJGrEn_oTmoJTZTzb6UzQHaHN&mediaurl=https%3a%2f%2fwww.kindpng.com%2fpicc%2fm%2f27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ca5246ac49ffa139a8253653cdbe94cd%3frik%3deIZRfRO3avsmCQ%26pid%3dImgRaw%26r%3d0&exph=837&expw=860&q=Bootstrap+Logo&simid=608025275158108637&FORM=IRPRST&ck=4B3CE69F63506A1D0FDB526B835AEF68&selectedIndex=1&itb=0">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt"visualstudio" height="30" widht="40" src="https://th.bing.com/th/id/R.8809d88831c6cada4e8cdea0e9a0633d?rik=SEDA7savsCHorg&pid=ImgRaw&r=0">
   <img align="center" alt"Code" height="30" widht="40" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png">

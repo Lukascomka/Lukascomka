@@ -1,12 +1,12 @@
 ## Olá! Eu sou Lukas Mota
 
 <div style="display: inline_blick"><br> 
-<p>Formado em Analise e desenvolvimento de sistemas, com conhecimento prático em linguagem de programação C#, banco de dados MySQL, Oracle e
+<p>Formado em Analise e desenvolvimento de sistemas, com conhecimento prático na linguagem de programação C#, banco de dados MySQL, Oracle e
 SQL Server.</p> 
 <p>Desenvolvimento Web em ASP.NET e bootstrap. Utilizando boas praticas de programação como clean code e arquitetura de software MVC.
 Conhecimento prático em desenvolvimento .NET.</p> 
 Versionamento de código (Git e Github). Habilidade em resolução de problemas e aprendizagem rápida.
-Busco oportunidades para aplicar meu conhecimento em uma empresa de tecnologia.
+
 </div>
 
 

@@ -15,6 +15,7 @@ Busco oportunidades para aplicar meu conhecimento em uma empresa de tecnologia.
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Csharp" height="30" width="40" src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2018/08/aspnetfeature.png"> 
   <img align="center" alt="bootstrap" height="30" width="40" src="https://th.bing.com/th/id/R.b9d46cc5e8930d60845d168a3ffa6b4c?rik=PsHC4cXGS21rdQ&pid=ImgRaw&r=0">
   <img align="center" alt"visualstudio" height="30" widht="40" src="https://th.bing.com/th/id/R.8809d88831c6cada4e8cdea0e9a0633d?rik=SEDA7savsCHorg&pid=ImgRaw&r=0">
   <img align="center" alt"Code" height="30" widht="40" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png">

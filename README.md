@@ -30,5 +30,5 @@ Versionamento de código (Git e Github). Habilidade em resolução de problemas 
 ##
 
 <div>
- <a href="https://www.linkedin.com/in/lukas-mota-41212b250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/lukas-mota" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

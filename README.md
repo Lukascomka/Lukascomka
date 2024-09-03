@@ -31,8 +31,6 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias e frame
 
 ##
 
-Com essas ferramentas e conhecimentos, sou capaz de desenvolver pequenos programas e softwares web.
-
 </div>
 
 

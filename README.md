@@ -1,12 +1,37 @@
 ### Olá!
-Eu sou **Lukas Mota** 
+Eu sou **Lukas Mota** # Bem-vindo ao meu perfil GitHub!
 
-<div style="display: inline_blick"><br> 
-<p>Formado em Analise e desenvolvimento de sistemas, com conhecimento prático na linguagem de programação C#, banco de dados MySQL, Oracle e
-SQL Server.</p> 
-<p>Desenvolvimento Web em ASP.NET e bootstrap. Utilizando boas praticas de programação como clean code e arquitetura de software MVC.
-Conhecimento prático em desenvolvimento .NET.</p> 
-Versionamento de código (Git e Github). Habilidade em resolução de problemas e aprendizagem rápida.
+<div>
+
+## Sobre Mim
+
+Sou um desenvolvedor Full Stack com experiência em diversas tecnologias e frameworks. Minha paixão é criar soluções eficientes e escaláveis, tanto no front-end quanto no back-end.
+
+## Tecnologias e Ferramentas
+
+### Back-End
+- **.NET C#**
+- **Abordagem Code First**
+- **Criação de APIs**
+- **DDD (Domain-Driven Design)**
+- **Microserviços**
+- **JWT Token**
+
+### Front-End
+- **Angular**
+- **TypeScript**
+- **JavaScript**
+
+### Banco de Dados
+- **SQL (Relacionais)**
+
+### Sistemas Operacionais
+- **Linux**
+- **Windows**
+
+## O que eu faço
+
+Com essas ferramentas e conhecimentos, sou capaz de desenvolver pequenos programas e softwares web robustos. Tenho experiência na criação de APIs no back-end e no consumo dessas APIs no front-end, garantindo uma integração perfeita entre as duas camadas.
 
 </div>
 

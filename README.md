@@ -23,7 +23,7 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias e frame
 - **JavaScript**
 
 ### Banco de Dados
-- **SQL (Relacionais)**
+- **SQL**
 
 ### Sistemas Operacionais
 - **Linux**
@@ -31,7 +31,7 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias e frame
 
 ## O que eu faço
 
-Com essas ferramentas e conhecimentos, sou capaz de desenvolver pequenos programas e softwares web robustos. Tenho experiência na criação de APIs no back-end e no consumo dessas APIs no front-end, garantindo uma integração perfeita entre as duas camadas.
+Com essas ferramentas e conhecimentos, sou capaz de desenvolver pequenos programas e softwares web.
 
 </div>
 

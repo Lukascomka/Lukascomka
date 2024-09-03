@@ -1,5 +1,5 @@
 ### Olá!
-Eu sou **Lukas Mota** # Bem-vindo ao meu perfil GitHub!
+Eu sou **Lukas Mota** #Bem-vindo ao meu perfil GitHub!
 
 <div>
 
@@ -29,7 +29,7 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias e frame
 - **Linux**
 - **Windows**
 
-## O que eu faço
+##
 
 Com essas ferramentas e conhecimentos, sou capaz de desenvolver pequenos programas e softwares web.
 

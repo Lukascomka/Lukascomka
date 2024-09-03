@@ -1,5 +1,5 @@
 ### Olá!
-Eu sou **Lukas Mota** repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou **Lukas Mota** 
 
 <div style="display: inline_blick"><br> 
 <p>Formado em Analise e desenvolvimento de sistemas, com conhecimento prático na linguagem de programação C#, banco de dados MySQL, Oracle e

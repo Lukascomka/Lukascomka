@@ -1,6 +1,6 @@
 ### Olá!
 Eu sou **Lukas Mota** 
-## Bem-vindo ao meu perfil GitHub!
+## Bem-vindo ao meu GitHub!
 
 <div>
 

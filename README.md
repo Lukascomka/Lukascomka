@@ -5,7 +5,7 @@ Eu sou **Lukas Mota**
 
 
 
-### Sobre Mim
+### Sobre Mim:
 
 Sou um desenvolvedor com experiência em desenvolvedor projetos tanto de front quanto de back. 
 Estou ainda me desenvolvendo como profissional da área, com projetos pessoais afim de aprimorar ainda mais meu conhecimento.
@@ -14,7 +14,7 @@ Estou em busca de ingressar na área de programação.
 
 
 
-
+### Skils:
 <div style="display: inline_block">
   <p>
    <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" >

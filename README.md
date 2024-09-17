@@ -41,6 +41,7 @@ Estou em busca de ingressar na área de programação.
 
 ##
 *Contate-me:*
-<div>
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white <a href="https://www.linkedin.com/in/lukas-mota" target="_blank"> 
+<div><a href="https://www.linkedin.com/in/lukas-mota" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 </div>

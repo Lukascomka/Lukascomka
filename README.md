@@ -13,14 +13,14 @@
 *Desenvolvi alguns projetos pessoas e acadêmicos com essas stacks abaixo:*
 
 
-### Desenvolvedor Front-end:
+***Desenvolvedor Front-end:***
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap" />
   </a>
 </p>
 
-### Desenvolvedor Back-end:
+***Desenvolvedor Back-end:***
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />

@@ -23,7 +23,7 @@
 ### Desenvolvedor Back-end:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
   </a>
 </p>
 

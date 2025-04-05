@@ -13,56 +13,55 @@ Estou sempre a procura de novos desafios.
 
 
 #### Desenvolvedor Front-end
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap" />
   </a>
 </p>
 
 #### Desenvolvedor Back-end
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet" />
   </a>
 </p>
 
 #### Conhecimento em SO
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux" />
   </a>
 </p>
 
-<p align="center">
-  Distro:
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu" />
   </a>
 </p>
 
 #### Conhecimento em CLI
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=shell,bash,npm" />
   </a>
 </p>
 
 #### Conhecimento em banco de dados Relacional
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
 
 #### IDEs que já utilizei
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,arduino,idea" />
   </a>
 </p>
 
 #### Versionamento de código
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git" />
   </a>

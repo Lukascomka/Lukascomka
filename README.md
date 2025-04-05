@@ -26,18 +26,14 @@ Estou sempre a procura de novos desafios.
   </a>
 </p>
 
-### Conhecimento em SO
+### Conhecimento em SO e distro:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
   </a>
 </p>
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu" />
-  </a>
-</p>
+
 
 ### Conhecimento em Terminal
 

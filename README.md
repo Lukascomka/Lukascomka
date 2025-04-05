@@ -12,21 +12,21 @@ Estou sempre a procura de novos desafios.
 **Desenvolvi alguns projetos pessoas e acadêmicos com essas stacks abaixo:**
 
 
-#### Desenvolvedor Front-end
+### Desenvolvedor Front-end
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap" />
   </a>
 </p>
 
-#### Desenvolvedor Back-end
+### Desenvolvedor Back-end
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet" />
   </a>
 </p>
 
-#### Conhecimento em SO
+### Conhecimento em SO
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux" />
@@ -39,28 +39,28 @@ Estou sempre a procura de novos desafios.
   </a>
 </p>
 
-#### Conhecimento em CLI
+### Conhecimento em CLI
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=shell,bash,npm" />
   </a>
 
 
-#### Conhecimento em banco de dados Relacional
+### Conhecimento em banco de dados Relacional
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
 
-#### IDEs que já utilizei
+### IDEs que já utilizei
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,arduino,idea" />
   </a>
 </p>
 
-#### Versionamento de código
+### Versionamento de código
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git" />

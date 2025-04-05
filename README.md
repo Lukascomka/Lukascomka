@@ -29,7 +29,8 @@ Estou sempre a procura de novos desafios.
 #### Conhecimento em SO
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=windows" />
+    <img src="https://skillicons.dev/icons?=linux" />
   </a>
 </p>
 
@@ -42,7 +43,9 @@ Estou sempre a procura de novos desafios.
 #### Conhecimento em CLI
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=shell,bash,npm" />
+    <img src="https://skillicons.dev/icons?i=shell" />
+    <img src="https://skillicons.dev/icons?=bash" />
+    <img src="https://skillicons.dev/icons?=npm" />
   </a>
 </p>
 

@@ -1,47 +1,52 @@
-# Bem-vindo ao meu GitHub!
+# Hello, i'm **Lukas Mota** and this is my Github.
 
 
-##  Olá! Eu sou **Lukas Mota** 
+### Sobre:
+Eu sou um desenvolvedor back e front end e, atualmente, estou cursando
+Ciência da computação na faculdade de tecnologia - SPTECH.
+Sou formado em Analise e desenvolvimento de sistemas - UNIP.
+
+Sinta-se avontade para entrar em contato comigo para novos projetos ou oportunidades. 
+Estou sempre a procura de novos desafios. 
+
+**Desenvolvi alguns projetos pessoas e acadêmicos com essas stacks abaixo:**
 
 
-
-### Sobre Mim:
-
-Sou um desenvolvedor com experiência em desenvolvedor projetos tanto de front quanto de back. 
-Estou ainda me desenvolvendo como profissional da área, com projetos pessoais afim de aprimorar ainda mais meu conhecimento.
-Estou em busca de ingressar na área de programação. 
-
-
-
-
-### Skils:
-<div style="display: inline_block">
+#### Desenvolvedor Front-end
   <p>
-   <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" >
-    <img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-    <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src ="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img src ="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-    <img src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  </p>
-</div>
+   [![Front-End](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap)](https://skillicons.dev)</p>
+   <p>[![Framework](https://skillicons.dev/icons?i=angular,react,nextjs,)](https://skillicons.dev)
+   </p>
+   
+#### Desenvolvedor Back-end
 
+<p>
+[![Back-End](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
+</p>
 
+#### Conhecimento em SO
+<p>
+[![Sistema-operacional](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
+</p>
+<p> Distro:
+[![Sistema-operacional](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+</p>
 
+#### Conhecimento em CLI
+<p>[![CLI](https://skillicons.dev/icons?i=shell,bash,npm)](https://skillicons.dev)
+</p>
 
+#### Conhecimento em banco de dados Relacional
+<p>
+[![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+</p>
 
+#### IDEs que já utilizei
+<p>
+[![Ides](https://skillicons.dev/icons?i=vscode,visualstudio,arduino,idea)](https://skillicons.dev)
+</p>
 
-##
-*Contate-me:*
-<div><a href="https://www.linkedin.com/in/lukas-mota" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
-</div>
+#### Versionamento de código
+<p>
+[![Versionamento](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
+</p>

@@ -27,7 +27,7 @@
   </a>
 </p>
 
-### Conhecimento em SO e distro:
+***Conhecimento em SO e distro:***
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
@@ -36,7 +36,7 @@
 
 
 
-### Conhecimento em Terminal:
+***Conhecimento em Terminal:***
 
 <p style="margin: 0; padding: 0;">
   <a href="https://skillicons.dev">
@@ -45,21 +45,21 @@
 </p>
 
 
-### Conhecimento em banco de dados Relacional:
+***Conhecimento em banco de dados Relacional:***
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
 
-### IDEs que já utilizei:
+***IDEs que já utilizei:***
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,arduino,idea" />
   </a>
 </p>
 
-### Versionamento de código:
+***Versionamento de código:***
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git" />

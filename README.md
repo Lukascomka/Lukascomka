@@ -1,6 +1,6 @@
 
-# *Hello, i'm *Lukas Mota*
-**and this is my Github.**
+# Hello, i'm *Lukas Mota
+## and this is my Github.
 
 
 ### Sobre:

@@ -2,12 +2,12 @@
 
 
 ### Sobre:
-Eu sou um desenvolvedor back e front end e, atualmente, estou cursando
-Ciência da computação na faculdade de tecnologia - SPTECH.
-Sou formado em Analise e desenvolvimento de sistemas - UNIP.
+**Eu sou um desenvolvedor back e front end e, atualmente, estou cursando**
+**Ciência da computação na faculdade de tecnologia - SPTECH.**
+**Sou formado em Analise e desenvolvimento de sistemas - UNIP.**
 
-Sinta-se avontade para entrar em contato comigo para novos projetos ou oportunidades. 
-Estou sempre a procura de novos desafios. 
+**Sinta-se avontade para entrar em contato comigo para novos projetos ou oportunidades.**
+**Estou sempre a procura de novos desafios.**
 
 **Desenvolvi alguns projetos pessoas e acadêmicos com essas stacks abaixo:**
 

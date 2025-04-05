@@ -42,11 +42,7 @@ Estou sempre a procura de novos desafios.
 #### Conhecimento em CLI
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=shell" />
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?=bash" />
-      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?=npm" />
+    <img src="https://skillicons.dev/icons?i=shell,bash,npm" />
   </a>
 </p>
 

@@ -44,7 +44,9 @@ Estou sempre a procura de novos desafios.
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=shell" />
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?=bash" />
+      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?=npm" />
   </a>
 </p>

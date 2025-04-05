@@ -1,7 +1,9 @@
 <style>
-  h1{
-    border-bottom: none;
-  }  </style>
+  h1, h2, h3, h4, h5, h6 {
+    border-bottom: none; 
+    margin-bottom: 0; 
+  }
+</style>
 ## Hello, i'm *Lukas Mota* and this is my Github.
 
 

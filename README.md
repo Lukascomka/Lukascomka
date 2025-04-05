@@ -39,11 +39,13 @@ Estou sempre a procura de novos desafios.
   </a>
 </p>
 
-### Conhecimento em CLI
+### Conhecimento em Terminal
 
+<p style="margin: 0; padding: 0;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=shell,bash,npm" />
   </a>
+</p>
 
 
 ### Conhecimento em banco de dados Relacional

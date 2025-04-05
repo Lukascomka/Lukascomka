@@ -1,7 +1,7 @@
 <style>
   h1{
     border-bottom: none;
-    </style>
+  }  </style>
 ## Hello, i'm *Lukas Mota* and this is my Github.
 
 

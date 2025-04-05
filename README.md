@@ -29,8 +29,7 @@ Estou sempre a procura de novos desafios.
 #### Conhecimento em SO
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows" />
-    <img src="https://skillicons.dev/icons?=linux" />
+    <img src="https://skillicons.dev/icons?i=windows,linux" />
   </a>
 </p>
 

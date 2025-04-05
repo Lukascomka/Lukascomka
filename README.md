@@ -1,4 +1,4 @@
-# Hello, i'm *Lukas Mota* **and this is my Github.**
+# Hey, i'm *Lukas Mota* **and this is my Github.**
 
 ### Sobre:
 *Eu sou um desenvolvedor back e front end e, atualmente, estou cursando*

@@ -39,7 +39,7 @@ Estou sempre a procura de novos desafios.
 
 <p style="margin: 0; padding: 0;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=shell,bash,npm" />
+    <img src="https://skillicons.dev/icons?i=powershell,bash,npm" />
   </a>
 </p>
 

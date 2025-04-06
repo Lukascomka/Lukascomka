@@ -1,7 +1,7 @@
 # Hey, i'm *Lukas Mota* **and this is my Github.**
 
 ### Sobre:
-<span style="color:#79c0ff"> *Eu sou um desenvolvedor back e front end e, atualmente, estou cursando* </span>
+*Eu sou um desenvolvedor back e front end e, atualmente, estou cursando* 
 *Ciência da computação na faculdade de tecnologia - SPTECH.*                                                                                                        
 *Sou formado em Analise e desenvolvimento de sistemas - UNIP.*
 
